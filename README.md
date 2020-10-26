@@ -73,13 +73,6 @@
   </tr>
    <tr>
     <th ></th>
-    <th ></th>
-    <th></th>
-    <th></th>
-   <th ></th>
-     
-  </tr>
-    <th ></th>
      <th ></th>
      <th ><a  href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareArchitecture">معماری نرم افزار</a></th>
      <th><a  href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareDevelopmentMethodologies">متدولوژی ایجاد نرم افزار</a></th>
