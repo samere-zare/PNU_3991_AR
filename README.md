@@ -13,9 +13,9 @@
 ## Winter Semester Courses 1399/2020
 
 ## دروس ارشد
-<br>
+
 [1115280_01	معماري نرم افزار	3](https://github.com/samerezare/PNU_3991_AR/tree/main/SoftwareArchitecture)
-<br>
+
 [1115282_01	متدولوژي ايجاد نرم افزار	3](https://github.com/samerezare/PNU_3991_AR/tree/main/SoftwareDevelopmentMethodologies)
 
 
@@ -72,11 +72,13 @@
     <th>چهارشنبه</th>
   </tr>
    <tr>
+     <th>پنج شنبه</th>
+  </tr>
     <th ></th>
      <th ></th>
      <th ><a  href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareArchitecture">معماری نرم افزار</a></th>
      <th><a  href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareDevelopmentMethodologies">متدولوژی ایجاد نرم افزار</a></th>
     
-    <th>پنج شنبه</th>
-  </tr>
+    
+
 </table>
