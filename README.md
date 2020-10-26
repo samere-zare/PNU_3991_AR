@@ -72,6 +72,11 @@
     <th>چهارشنبه</th>
   </tr>
    <tr>
+    <th ></th>
+    <th ></th>
+    <th></th>
+    <th></th>
+   <th ></th>
      <th>پنج شنبه</th>
   </tr>
     <th ></th>
