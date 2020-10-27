@@ -3,20 +3,20 @@
 ### سامره زارع
  
 ---
-- [حساب گیت هاب](https://github.com/samerezare)
+- [حساب گیت هاب](https://github.com/samere-zare)
 
-- [رزومه](https://samerezare.github.io/Resume/)
+- [رزومه](https://samere-zare.github.io/samerezare.githab.io/)
 
-- [SOP](https://samerezare.github.io/SOP/)
+- [SOP](https://samere-zare.github.io/SOP/)
 
 ------------------
 ## Winter Semester Courses 1399/2020
 
 ## دروس ارشد
 
-[1115280_01	معماري نرم افزار	3](https://github.com/samerezare/PNU_3991_AR/tree/main/SoftwareArchitecture)
+[1115280_01	معماري نرم افزار	3](https://github.com/samere-zare/PNU_3991_AR/tree/main/SoftwareArchitecture)
 
-[1115282_01	متدولوژي ايجاد نرم افزار	3](https://github.com/samerezare/PNU_3991_AR/tree/main/SoftwareDevelopmentMethodologies)
+[1115282_01	متدولوژي ايجاد نرم افزار	3](https://github.com/samere-zare/PNU_3991_AR/tree/main/SoftwareDevelopmentMethodologies)
 
 
 --------------
