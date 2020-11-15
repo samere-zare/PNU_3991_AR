@@ -3,7 +3,7 @@
 ### سامره زارع
  
 ---
-- [Github](https://github.com/samere-zare)
+- [حساب گیت هاب](https://github.com/samere-zare)
 
 - [Resume](https://samere-zare.github.io/Resume/)
 
