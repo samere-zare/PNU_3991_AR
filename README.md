@@ -3,7 +3,7 @@
 ### سامره زارع
  
 ---
-- [pnu_3991-AR](https://github.com/samere-zare/pnu_3991_AR)
+- [PNU_3991-AR](https://github.com/samere-zare/PNU_3991_AR)
 - [حساب گیت هاب](https://github.com/samere-zare)
 
 - [Resume](https://samere-zare.github.io/Resume/)
