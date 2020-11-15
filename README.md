@@ -3,9 +3,9 @@
 ### سامره زارع
  
 ---
-- [حساب گیت هاب](https://samere-zare.github.com/)
+- [حساب گیت هاب](https://github.com/samere-zare)
 
-- [رزومه](https://samere-zare.github.io/samere-zare.githab.io/)
+- [Resume](https://samere-zare.github.io/Resume/)
 
 - [SOP](https://samere-zare.github.io/SOP/)
 
