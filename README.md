@@ -5,7 +5,7 @@
 ---
 - [حساب گیت هاب](https://github.com/samere-zare)
 
-- [رزومه](https://samere-zare.github.io/samerezare.githab.io/)
+- [رزومه](https://samere-zare.github.io/samere-zare.githab.io/)
 
 - [SOP](https://samere-zare.github.io/SOP/)
 
