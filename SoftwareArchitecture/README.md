@@ -12,6 +12,12 @@
 - [SOP](https://samere-zare.github.io/SOP/)
 
 --------------
+## Implementation_Java Script
+- [Builder pattern](https://github.com/samere-zare/PNU_3991_AR/blob/main/SoftwareArchitecture/Builder%20pattern.mp4)
+------------------
+## CHAPTER 1_The Big Idea
+- [The Big Idea]()
+--------------
 ## گروه  درسی
 
 1. G-S01
