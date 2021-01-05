@@ -11,6 +11,20 @@
 
 - [SOP](https://samere-zare.github.io/SOP/)
 
+-------------------
+## CHAPTER20. Process-oriented methodologies
+ ### Presentation
+- [methodology.part1](https://github.com/samere-zare/PNU_3991_AR/blob/main/SoftwareDevelopmentMethodologies/methodology..part1.mp4)
+- [methodology.part2](https://github.com/samere-zare/PNU_3991_AR/blob/main/SoftwareDevelopmentMethodologies/methodology..part2.mp4)
+
+## CHAPTER 01_Design and Development of Web Information Systems
+ ### Reading
+ 
+ - [part1](https://github.com/samere-zare/PNU_3991_AR/blob/main/SoftwareDevelopmentMethodologies/part1.English.mp4)
+ - [part1](https://github.com/samere-zare/PNU_3991_AR/blob/main/SoftwareDevelopmentMethodologies/part2.English.mp4)
+ - [part1](https://github.com/samere-zare/PNU_3991_AR/blob/main/SoftwareDevelopmentMethodologies/part3.English.mp4)
+ - [part1](https://github.com/samere-zare/PNU_3991_AR/blob/main/SoftwareDevelopmentMethodologies/part4.English.mp4)
+
 -----------------
 ## گروه درسی
 
