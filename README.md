@@ -7,7 +7,7 @@
 - [حساب گیت هاب](https://github.com/samere-zare)
 - [Certificate](https://github.com/samere-zare/certificate)
 
-- [Resume](https://samere-zare.github.io/Resume/)
+- [Resume](https://samere-zare.github.io/)
 
 - [SOP](https://samere-zare.github.io/SOP/)
 
