@@ -17,7 +17,7 @@
 
 ##  بخش عمومی
 - [ارزیابی رزومه و انگیزه نامه]()
-- [خلاصه ارزیابی بخش عمومی]()
+- [خلاصه ارزیابی بخش عمومی](https://github.com/samere-zare/PNU_3991_AR/blob/main/General/SZ_GeneralSection_CheckList_AR_3991-converted.pdf)
 
 ##  بخش دروس ارشد
 - [خلاصه ارزیابی درس_متدولوژی توسعه نرم افزار](https://github.com/samere-zare/PNU_3991_AR/blob/main/SoftwareDevelopmentMethodologies/XX_SoftwareDevelopmentMethodologies_CheckList_AR_3991-converted.pdf)
