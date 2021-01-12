@@ -20,7 +20,7 @@
 - [خلاصه ارزیابی بخش عمومی]()
 
 ##  بخش دروس ارشد
-- [خلاصه ارزیابی درس_متدولوژی توسعه نرم افزار]()
+- [خلاصه ارزیابی درس_متدولوژی توسعه نرم افزار](https://github.com/samere-zare/PNU_3991_AR/blob/main/SoftwareDevelopmentMethodologies/XX_SoftwareDevelopmentMethodologies_CheckList_AR_3991-converted.pdf)
 
 - [خلاصه ارزیابی درس_معماری نرم افزار]()
 
