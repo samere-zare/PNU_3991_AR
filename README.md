@@ -16,7 +16,7 @@
 > ارزیابی ها
 
 ##  بخش عمومی
-- [ارزیابی رزومه و انگیزه نامه](ابطحی](https://github.com/samere-zare/PNU_3991_AR/blob/main/General/SZ_CV_CheckList_AR_3991-converted.pdf)
+- [ارزیابی رزومه و انگیزه نامه](https://github.com/samere-zare/PNU_3991_AR/blob/main/General/SZ_CV_CheckList_AR_3991-converted.pdf)
 - [خلاصه ارزیابی بخش عمومی](https://github.com/samere-zare/PNU_3991_AR/blob/main/General/SZ_GeneralSection_CheckList_AR_3991-converted.pdf)
 
 ##  بخش دروس ارشد
