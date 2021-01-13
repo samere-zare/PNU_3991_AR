@@ -89,11 +89,6 @@
      </table>
 
 
- - [part1](https://github.com/samere-zare/PNU_3991_AR/blob/main/SoftwareDevelopmentMethodologies/part1.English.mp4)
- - [part2](https://github.com/samere-zare/PNU_3991_AR/blob/main/SoftwareDevelopmentMethodologies/part2.English.mp4)
- - [part3](https://github.com/samere-zare/PNU_3991_AR/blob/main/SoftwareDevelopmentMethodologies/part3.English.mp4)
- - [part4](https://github.com/samere-zare/PNU_3991_AR/blob/main/SoftwareDevelopmentMethodologies/part4.English.mp4)
-
 -----------------
 ## گروه درسی
 
