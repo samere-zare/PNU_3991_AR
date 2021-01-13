@@ -47,13 +47,22 @@
     </tr>
       </table>
  
-
+[part2](https://github.com/samere-zare/PNU_3991_AR/blob/main/SoftwareDevelopmentMethodologies/part2.English.mp4)
  
+<table style="width:100%">
+  <tr>
+  <th>
+ <p>۱.۱.۲)مدلسازی زمینه ای</p> 
+
+ این مدلسازی بر طبق فرهنگ لانگن اشتید لانگمن زمینه مدل سازی با وضعیت حوادث یا اطلاعات ارتباط دارد.متن برنامه ای که با دنیای خارج سروکار دارد به درک کاربران مربوط می شود.زمینه سیستم اطلاعاتی با اهداف سیستم سر و کار دارد یعنی چه کسی هدف است و چه کسی ذینفع.همچنین زمینه سیستم اطلاعات وب به اطلاعات لازم برای کاربر سر و کار دارد.برای اینکه بدانیم چطور یک مسئله را حل می‌کند باید از مدل کاربری در سیستم اطلاعات وب استفاده کنیم.ممکن است کاربر اطلاعاتی که قبلاً دریافت کرده است را از دست بدهد به همین دلیل مفهوم فضای زمینه ای برای مدل سازی زمینه ای می تواند کمک کننده باشد.در فضای زمینه، یک نقطه برای تعیین بهترین راه می شود یعنی به مشتری کمک می کند از وضعیت ضرر و زیان عبور کند.این مدل باید پویا باشد چون بعضی از ویژگی‌های کاربرها ممکن است در طی یک جلسه تغییر کند
+ </th>
+   </tr>
+     </table>
 
  - [part1](https://github.com/samere-zare/PNU_3991_AR/blob/main/SoftwareDevelopmentMethodologies/part1.English.mp4)
- - [part1](https://github.com/samere-zare/PNU_3991_AR/blob/main/SoftwareDevelopmentMethodologies/part2.English.mp4)
- - [part1](https://github.com/samere-zare/PNU_3991_AR/blob/main/SoftwareDevelopmentMethodologies/part3.English.mp4)
- - [part1](https://github.com/samere-zare/PNU_3991_AR/blob/main/SoftwareDevelopmentMethodologies/part4.English.mp4)
+ - [part2](https://github.com/samere-zare/PNU_3991_AR/blob/main/SoftwareDevelopmentMethodologies/part2.English.mp4)
+ - [part3](https://github.com/samere-zare/PNU_3991_AR/blob/main/SoftwareDevelopmentMethodologies/part3.English.mp4)
+ - [part4](https://github.com/samere-zare/PNU_3991_AR/blob/main/SoftwareDevelopmentMethodologies/part4.English.mp4)
 
 -----------------
 ## گروه درسی
