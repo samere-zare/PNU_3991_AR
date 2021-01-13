@@ -21,6 +21,16 @@
 
 ## CHAPTER 01_Design and Development of Web Information Systems
  ### Reading
+   <table style="width:100%">
+  <tr>
+  <th>
+ <p>1.1)مدل سازی و طراحی مفهومی
+
+سیستم اطلاعات وب که یک زیر کلاس از سیستم های اطلاعات است باید بتواند جنبه‌های ساختار عملکرد و تعامل را با هم ترکیب کند که برای این کار یک تئوری مدل سازی نیاز است تا بتواند همه جنبه ها را یکپارچه کند
+ </p>
+ </th>
+   </tr>
+     </table>
   
  
  - [part1](https://github.com/samere-zare/PNU_3991_AR/blob/main/SoftwareDevelopmentMethodologies/part1.English.mp4)
