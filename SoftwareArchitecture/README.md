@@ -17,7 +17,7 @@
 ------------------
 ## CHAPTER 1_The Big Idea
 - [The Big Idea.part1](https://github.com/samere-zare/PNU_3991_AR/blob/main/SoftwareArchitecture/part1.big%20idea.mp4)
-- [The Big Idea.part2]()
+- [The Big Idea.part2](https://github.com/samere-zare/PNU_3991_AR/blob/main/SoftwareArchitecture/part2..big%20idea.mp4)
 --------------
 ## گروه  درسی
 
