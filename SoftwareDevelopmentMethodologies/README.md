@@ -25,11 +25,10 @@
 ## CHAPTER 01_Design and Development of Web Information Systems
  ### Reading
 
- - [part1](https://github.com/samere-zare/PNU_3991_AR/blob/main/SoftwareDevelopmentMethodologies/part1.English.mp4)
- - [part2](https://github.com/samere-zare/PNU_3991_AR/blob/main/SoftwareDevelopmentMethodologies/part2.English.mp4)
- - [part3](https://github.com/samere-zare/PNU_3991_AR/blob/main/SoftwareDevelopmentMethodologies/part3.English.mp4)
- - [part4](https://github.com/samere-zare/PNU_3991_AR/blob/main/SoftwareDevelopmentMethodologies/part4.English.mp4)
-
+ - [part1](https://drive.google.com/file/d/1UzN0bo5jiYD8fqDHeqJ2zqdpFUsHCOw-/view?usp=drivesdk)
+ - [part2](https://drive.google.com/file/d/1V6onsahB3wukasafzBcnNxcMF1hTJ603/view?usp=drivesdk)
+ - [part3](https://drive.google.com/file/d/1VEcOYhdzo4JwD7yuzS1rUZrBBhsujXOX/view?usp=drivesdk)
+ - [part4](https://drive.google.com/file/d/1VJL8a2j-etLPNIGGvCBa_vaeVFRj6U-M/view?usp=drivesdk)
 
    <table style="width:"100%>
   <tr>
