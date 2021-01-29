@@ -22,11 +22,11 @@
 
 این الگو برای ساخت اشیا در فرآیند برنامه نویسی نرم افزار ارائه شده است که عنوان می کند اگر قرار است یک شی پیچیده ساخته شود بهتر است ساخت آن به صورت مرحله به مرحله انجام شود.برای مثال فرض کنیم می‌خواهیم یک خانه بسازیم پس باید بخش های مختلفی برای آن در نظر بگیریم و تنوع خانه ها زیاد است،یک راه حل این است که بیاییم تعداد زیادی زیر کلاس با توجه به هر خانه ایجاد کنیم،راه حل بعدی این است که پارامترهایی متناسب با هر خانه ایجاد کنیم که اینها همه باعث افزایش پیچیدگی می شود.الگوی بیلدر در اینجا بهترین راه حل را ارائه می دهد که در زیر بیان و پیاده سازی شده است
 
-- [Builder pattern](https://github.com/samere-zare/PNU_3991_AR/blob/main/SoftwareArchitecture/Builder%20pattern.mp4)
+- [Builder pattern](https://drive.google.com/file/d/1UmGnB2znrNZ-Qk5Lg6uNp27gi6CVn0t4/view?usp=drivesdk)
 ------------------
 ## CHAPTER 1_The Big Idea
-- [The Big Idea.part1](https://github.com/samere-zare/PNU_3991_AR/blob/main/SoftwareArchitecture/part1.big%20idea.mp4)
-- [The Big Idea.part2](https://github.com/samere-zare/PNU_3991_AR/blob/main/SoftwareArchitecture/part2..big%20idea.mp4)
+- [The Big Idea.part1])https://drive.google.com/file/d/1Us1zjXkj1X2X6qBcnPKRBN2U1mrHrItj/view?usp=drivesdk)
+- [The Big Idea.part2](https://drive.google.com/file/d/1UxoH3IPNfZPpNdVjdTaEtERdn1QqdF-N/view?usp=drivesdk)
 --------------
 ## گروه ها
 
