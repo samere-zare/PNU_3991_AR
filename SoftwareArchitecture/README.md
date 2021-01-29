@@ -25,7 +25,7 @@
 - [Builder pattern](https://drive.google.com/file/d/1UmGnB2znrNZ-Qk5Lg6uNp27gi6CVn0t4/view?usp=drivesdk)
 ------------------
 ## CHAPTER 1_The Big Idea
-- [The Big Idea.part1])https://drive.google.com/file/d/1Us1zjXkj1X2X6qBcnPKRBN2U1mrHrItj/view?usp=drivesdk)
+- [The Big Idea.part1](https://drive.google.com/file/d/1Us1zjXkj1X2X6qBcnPKRBN2U1mrHrItj/view?usp=drivesdk)
 - [The Big Idea.part2](https://drive.google.com/file/d/1UxoH3IPNfZPpNdVjdTaEtERdn1QqdF-N/view?usp=drivesdk)
 --------------
 ## گروه ها
