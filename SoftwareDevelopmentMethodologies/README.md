@@ -20,7 +20,7 @@
 ## CHAPTER20. Process-oriented methodologies
  ### Presentation
 - [methodology.part1](http://drive.google.com/file/d/1UlAYoQBd2LoZ0um2zt3aaB88YpPaDVWm/view?usp=drivesdk)
-- [methodology.part2](https://github.com/samere-zare/PNU_3991_AR/blob/main/SoftwareDevelopmentMethodologies/methodology..part2.mp4)
+- [methodology.part2](https://drive.google.com/file/d/1Ulh0rgsogxZ24XZe1-RivmqA8nFhYEfX/view?usp=drivesdk)
 
 ## CHAPTER 01_Design and Development of Web Information Systems
  ### Reading
